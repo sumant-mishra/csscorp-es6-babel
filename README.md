@@ -1,4 +1,4 @@
-﻿# csscorp-es6-babel
+﻿# Training Session 1: ES6 and Bable Training
  
  ## Install NodeJS and npm
  Check if NodeJS and npm is installed in the system or not by running below commands
