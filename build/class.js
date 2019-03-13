@@ -49,6 +49,6 @@ var testClass = new _exportedClass2.default();
 console.log(_exportedClass.TEST_VAR);
 testClass.test();
 
-var movie2ES6 = new _exportedClass2.default();
+var movie2ES6 = new _exportedClass.Movie2ES6();
 console.log(movie2ES6);
 movie2ES6.setTitle("Avatar");

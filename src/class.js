@@ -1,6 +1,6 @@
 import {TEST_VAR} from './exported-class';
 import TestClass from './exported-class';
-import Movie2ES6 from './exported-class';
+import {Movie2ES6} from './exported-class';
 
 var Movie = function(){
     this.name = "";
