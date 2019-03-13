@@ -1,15 +1,15 @@
 ﻿# Training Session 1: ES6 and Bable Training
  
  ## Topics Covered
-⋅⋅* var, let and const
-⋅⋅* Template-String
-⋅⋅* Arrow function
-⋅⋅* Array
-⋅⋅* Spread Operator
-⋅⋅* Object
-⋅⋅* Iterators
-⋅⋅* Class
-⋅⋅* Import and Export a class or variables
+* var, let and const
+* Template-String
+* Arrow function
+* Array
+* Spread Operator
+* Object
+* Iterators
+* Class
+* Import and Export a class or variables
 
  ## Install NodeJS and npm
  Check if NodeJS and npm is installed in the system or not by running below commands
